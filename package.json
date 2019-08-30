@@ -1,0 +1,10 @@
+{
+ "dependencies": {
+    "rdflib": "^0.20.1",
+  },
+
+  "name": "CCODataParser",
+  "version": "1.0.0",
+  "private": false
+}
+
