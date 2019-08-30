@@ -3,7 +3,7 @@
     "rdflib": "^0.20.1"
   },
 
-  "name": "jacobmcconomy@CCODataParser",
+  "name": "@jacobmcconomy/CCODataParser",
   "version": "1.0.0",
   "private": false
 }
